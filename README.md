@@ -144,7 +144,7 @@ This allows the form to respond immediately to user input without reloading the 
 Clone the repository:
 
 ```bash
-git clone YOUR-REPOSITORY-URL
+git clone https://github.com/dentoncd/The-Rocks-Interview
 ```
 
 Navigate into the project:
